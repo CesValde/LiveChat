@@ -48,10 +48,11 @@ src/
   │   ├─ js/
   │   │   └─ index.js
   │   ├─ css/
-  │   │   └─ chat.css
-  │   └─ images/     (si se usa subir archivos)
+  │       └─ chat.css
   ├─ views/
-  │   └─ chat.handlebars
+  │   ├─ chat.handlebars
+  │   └─ layouts/
+  │       └─ index.handlebars
   ├─ routes/
   │   └─ view.route.js
   └─ server.js (o app.js)
