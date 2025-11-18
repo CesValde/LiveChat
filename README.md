@@ -184,8 +184,14 @@ npm install
 
 **2. Ejecutar el servidor:**
 
+Con Nodemon
 ```bash
 npx run dev
+```
+
+Solo Node.js
+```bash
+node server.js
 ```
 
 **3. Abrir en navegador:**
